@@ -1,0 +1,9 @@
+# Build output (regenerate with build.bat)
+build/
+
+# Local Claude Code tooling config
+.claude/
+
+# Windows shell cruft
+Thumbs.db
+desktop.ini
